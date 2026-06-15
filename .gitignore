@@ -1,0 +1,17 @@
+# Node dependencies
+FRONTEND/node_modules/
+FRONTEND/dist/
+FRONTEND/.env.local
+
+# Python caches and environments
+BACKEND/.venv/
+BACKEND/venv/
+BACKEND/__pycache__/
+BACKEND/backend/__pycache__/
+BACKEND/backend/*/__pycache__/
+backend.egg-info/
+
+# Logs and system files
+*.log
+.DS_Store
+Thumbs.db
